@@ -58,7 +58,7 @@
 .notes {
     height: 9%;
     width: 100%;
-    background-color: whitesmoke;
+    background-color: white;
     display: flex;
     align-items: center;
     padding-top:2px;
@@ -91,7 +91,7 @@
 .links {
     height: 9%;
     width: 100%;
-    background-color: whitesmoke;
+    background-color: white;
     display: flex;
     align-items: center;
     padding-top:2px ;
