@@ -1,5 +1,5 @@
 import styles from "./Home.module.css";
-
+import Notes from "../../Notes/Notes";
 export default function Home() {
     return (
         <div className={styles.parent}>
@@ -26,6 +26,7 @@ export default function Home() {
                         <p>Bookmarks</p>
                     </div>
                 </div>
+                <Notes/>
             </div>
         </div>
     );
